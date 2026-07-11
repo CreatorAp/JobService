@@ -1,0 +1,25 @@
+{
+  "name": "jobservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/server.ts",
+    "test": "ts-node src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "amqplib": "^2.0.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mssql": "^12.6.0"
+  }
+}
