@@ -1,0 +1,1 @@
+{"version":3,"file":"JobRepository.d.ts","sourceRoot":"","sources":["JobRepository.ts"],"names":[],"mappings":"AAAA,OAAO,GAAG,MAAM,yBAAyB,CAAC;AAG1C,MAAM,CAAC,OAAO,OAAO,aAAa;IAIxB,MAAM,CAAC,GAAG,EAAE,GAAG;IAoHf,OAAO,CAAC,IAAI,EAAE,MAAM;IAepB,MAAM,CAAC,IAAI,EAAE,MAAM,EAAE,GAAG,EAAE,GAAG;CAuDtC"}
