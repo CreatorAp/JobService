@@ -22,7 +22,7 @@ const eventBus = new RabbitMqEventBus();
 
 console.log("SERVER MEDIATOR", mediator);
 
-eventBus.connect();
+//eventBus.connect();
 
 mediator.register("CreateJobCommand", 
     new CreateJobHandler(
